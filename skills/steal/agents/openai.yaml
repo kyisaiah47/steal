@@ -1,0 +1,4 @@
+interface:
+  display_name: "Steal"
+  short_description: "Turn design references into focused UI improvements"
+  default_prompt: "Use $steal to inspect this interface, research relevant precedents, and adapt a focused improvement using its existing design system."

@@ -1,0 +1,19 @@
+{
+  "name": "steal",
+  "version": "0.1.0",
+  "description": "Research design precedents, extract useful mechanisms, and adapt focused improvements to your own interface.",
+  "author": {
+    "name": "Compound Labs"
+  },
+  "homepage": "https://github.com/kyisaiah47/steal",
+  "repository": "https://github.com/kyisaiah47/steal",
+  "license": "LicenseRef-Compound-Labs-Proprietary",
+  "keywords": [
+    "design",
+    "research",
+    "ui",
+    "ux",
+    "codex",
+    "claude-code"
+  ]
+}

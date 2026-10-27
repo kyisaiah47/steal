@@ -1,0 +1,42 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "steal",
+  "version": "0.1.0",
+  "description": "Research design precedents, extract useful mechanisms, and adapt focused improvements to your own interface.",
+  "author": {
+    "name": "Compound Labs",
+    "url": "https://github.com/kyisaiah47"
+  },
+  "homepage": "https://github.com/kyisaiah47/steal",
+  "repository": "https://github.com/kyisaiah47/steal",
+  "license": "LicenseRef-Compound-Labs-Proprietary",
+  "keywords": [
+    "design",
+    "research",
+    "ui",
+    "ux",
+    "codex",
+    "claude-code"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Steal: Design Precedents",
+        "shortDescription": "Research patterns, improve UI",
+        "longDescription": "Research design precedents, extract useful mechanisms, and adapt focused improvements to your own interface. Supports Codex and Claude Code. See the repository for setup requirements, tested behavior, and limitations.",
+        "developerName": "Compound Labs",
+        "category": "Design",
+        "websiteURL": "https://github.com/kyisaiah47/steal",
+        "supportURL": "https://github.com/kyisaiah47/steal/issues",
+        "defaultPrompt": [
+          "Find design precedents for this interface and apply the useful mechanisms."
+        ],
+        "composerIcon": "./assets/icon.svg",
+        "logo": "./assets/icon.svg"
+      },
+      "publication": {
+        "release_notes": "Initial public package for Codex and Claude Code."
+      }
+    }
+  }
+}
