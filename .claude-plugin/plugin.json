@@ -1,6 +1,6 @@
 {
   "name": "steal",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Research design precedents, extract useful mechanisms, and adapt focused improvements to your own interface.",
   "author": {
     "name": "Compound Labs"
@@ -15,5 +15,9 @@
     "ux",
     "codex",
     "claude-code"
-  ]
+  ],
+  "displayName": "Steal: Design Precedents",
+  "supportUrl": "https://github.com/kyisaiah47/steal/issues",
+  "privacyPolicyUrl": "https://github.com/kyisaiah47/steal/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://github.com/kyisaiah47/steal/blob/main/LICENSE"
 }
