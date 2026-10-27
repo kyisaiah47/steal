@@ -61,3 +61,7 @@ Run the skill-creator metadata validator against `skills/steal`, and run `claude
 ## Rights
 
 Copyright 2026 Compound Labs. All rights reserved. See [LICENSE](LICENSE) for permission to install and use the package. Research references and users' project assets retain their own rights.
+
+## Privacy and terms
+
+Read the [data-handling policy](PRIVACY.md) and [usage terms](LICENSE) before use.
